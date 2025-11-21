@@ -2,5 +2,6 @@
 
 Tampilan Aplikasi
 
-<img width="1683" height="500" alt="1" src="https://github.com/user-attachments/assets/b22923e3-cffa-40cf-bf62-f236884e0c14" />
-<img width="1684" height="500" alt="2" src="https://github.com/user-attachments/assets/645e7a37-737c-48fc-8001-5dda44161200" />
+<img width="1687" height="500" alt="1" src="https://github.com/user-attachments/assets/a4f0c1ae-347d-4823-bcd4-5d8ac57fa125" />
+
+<img width="1683" height="500" alt="2" src="https://github.com/user-attachments/assets/19c47581-effa-407b-8841-bc7c48675925" />
